@@ -9,6 +9,7 @@ While learning, i took part in 2 Kaggle competitions and the result and ranking 
 
 ## Titanic: Machine Learning from Disaster
 [Check on Kaggle](https://www.kaggle.com/c/titanic)
+
 Update: The competition and leaderboard has been reset by Kaggle and I am no more listed in Leaderboard.
 
 ## Smartphone User Activity Prediction
