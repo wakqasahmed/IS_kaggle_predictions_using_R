@@ -5,8 +5,11 @@ In this course, I learnt about 'Data Science', 'R Language' and How to make pred
 
 While learning, i took part in 2 Kaggle competitions and the result and ranking can be found in the documents available with this repository. The same were submitted as part of my MS partial requirement.
 
-## Titanic: Machine Learning from Disaster
-###https://www.kaggle.com/c/titanic
+[Check my profile on Kaggle](https://www.kaggle.com/wakqasahmed/competitions)
 
-##Smartphone User Activity Prediction
-###https://inclass.kaggle.com/c/smartphone-user-activity-prediction
+## Titanic: Machine Learning from Disaster
+[Check on Kaggle](https://www.kaggle.com/c/titanic)
+Update: The competition and leaderboard has been reset by Kaggle and I am no more listed in Leaderboard.
+
+## Smartphone User Activity Prediction
+[Check on Kaggle](https://inclass.kaggle.com/c/smartphone-user-activity-prediction)
